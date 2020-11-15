@@ -130,7 +130,7 @@ Given a list of integers, write a function that returns the largest sum of non-a
 
 For example, [2, 4, 6, 8] should return 12, since we pick 4 and 8. [5, 1, 1, 5] should return 10, since we pick 5 and 5.
 
-[Solution](solutions/problem_009.cs)
+[Solution](solutions/009_Non_Adjacent_Sum.cs)
 
 ---
 
@@ -176,7 +176,7 @@ For example, if N is 4, then there are 5 unique ways:
 
 What if, instead of being able to climb 1 or 2 steps at a time, you could climb any number from a set of positive integers X? For example, if X = {1, 3, 5}, you could climb 1, 3, or 5 steps at a time.
 
-[Solution](solutions/problem_012.cs)
+[Solution](solutions/012_Staircase_Combination.cs)
 
 ---
 
@@ -188,7 +188,7 @@ Given an integer k and a string s, find the length of the longest substring that
 
 For example, given s = "abcba" and k = 2, the longest substring with k distinct characters is "bcb".
 
-[Solution](solutions/problem_013.cs)
+[Solution](solutions/013_Longest_Distinct_Substringcs)
 
 ---
 
@@ -284,7 +284,7 @@ For example, given array = [10, 5, 2, 7, 8, 7] and k = 3, we should get: [10, 7,
 
 Do this in O(n) time and O(k) space. You can modify the input array in-place and you do not need to store the results. You can simply print them out as you compute them.
 
-[Solution](solutions/problem_018.cs)
+[Solution](solutions/018_Max_Value_SubArray.cs)
 
 ---
 
