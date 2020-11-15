@@ -51,7 +51,7 @@ For example, the input [3, 4, -1, 1] should give 2. The input [1, 2, 0] should g
 
 You can modify the input array in-place.
 
-[Solution](solutions/004_Missing_Positive.cs)
+[Solution](solutions/004_Missing_Positive_Integer.cs)
 
 ---
 
